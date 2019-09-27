@@ -1,0 +1,10 @@
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\bin\Debug\Form Xml Doviz kuru çekme.exe.config
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\bin\Debug\Form Xml Doviz kuru çekme.exe
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\bin\Debug\Form Xml Doviz kuru çekme.pdb
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\obj\Debug\Form Xml Doviz kuru çekme.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\obj\Debug\Form_Xml_Doviz_kuru_çekme.Form1.resources
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\obj\Debug\Form_Xml_Doviz_kuru_çekme.Properties.Resources.resources
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\obj\Debug\Form Xml Doviz kuru çekme.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\obj\Debug\Form Xml Doviz kuru çekme.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\obj\Debug\Form Xml Doviz kuru çekme.exe
+C:\Users\reela\source\repos\Form Xml Doviz kuru çekme\Form Xml Doviz kuru çekme\obj\Debug\Form Xml Doviz kuru çekme.pdb
